@@ -1,0 +1,59 @@
+h3{
+    /* color: chartreuse; */
+}
+
+h1{
+    font-size: 20px;
+    
+}
+
+#e{
+    font-size: 20px;
+    background-color: aqua;
+    text-align: center;
+    
+}
+
+.s{
+    color: darkgreen;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    
+}
+
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+.t{
+    border: 10px solid chocolate;
+    margin: 30px;
+    padding: 20px;
+    box-shadow: 10px 10px 10px green;
+    text-align: center;
+
+
+}
+ 
+header{
+    height: 650px;
+    /* border: 10px solid red; */
+    /* padding: 10px 10px 10px 10px; */
+    background-color: aqua;
+    text-align: center;
+    background-image: url('one-piece-zoro-in-wano-arc.avif');
+    background-repeat: no-repeat;
+    background size: contain:  ;
+
+
+}
+
+.part2{
+    /* display: none; */
+    visibility: hidden;
+
+}
+
+

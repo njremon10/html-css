@@ -1,0 +1,35 @@
+
+
+.header{
+    height: 500px;
+    background-image:url(../pic/images.jpg);
+    /* background-color: bisque; */
+    /* background-repeat: repeat-x ; */
+    /* background-size: contain; */
+    /* background-size: cover; */
+}
+
+.project{
+    border: 10px solid red;
+    margin: 30px;
+    padding: 10px ;
+    box-shadow: 10px 10px 10px yellowgreen;
+}
+
+h3{
+    font-size: 30px;
+    text-align: justify;
+    text-decoration: overline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+
+.second{
+    display: none;
+    /* visibility: hidden; */
+}
+
+.new{
+    border: 1px solid red;
+    /* display: block; */
+}
+
